@@ -8,7 +8,7 @@ This example shows how to use GRPC streams in nestjs. All required protobuf inte
 
 ```js
 cd backend
-npm install
+npm install kfkfjnv
 npm run start:server
 ```
 
