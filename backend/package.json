@@ -63,7 +63,7 @@
     "rxjs": "^6.3.3",
     "systeminformation": "^4.14.4",
     "ts-protoc-gen": "^0.10.1-pre.e8c15bc",
-    "typeorm": "^0.2.18",
+    "typeorm": "^0.3.14",
     "uuid": "^3.3.2"
   },
   "devDependencies": {
